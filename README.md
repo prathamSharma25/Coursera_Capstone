@@ -1,5 +1,5 @@
 # IBM Applied Data Science Capstone
-Repository for the Applied Data Science Capstone Project for the IBM Data Science Professional Certificate specialization on Coursera.
+Repository for the Applied Data Science Capstone Project (course 10) of the IBM Data Science Professional Certificate specialization on Coursera.
 
 ---
 
